@@ -1,5 +1,5 @@
 <head>   
-  <title>코딩 연습 페이지입니다.</title>
+  <title>코딩 연습장</title>
 </head>
 
 <body>
